@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+  }
+
+h1{
+    color: #5f021f;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+#comptoir{
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+#nombre{
+    color: tomato;
+}
+
+.image{
+    height: 800px;
+    width: 1500px;
+
+}
